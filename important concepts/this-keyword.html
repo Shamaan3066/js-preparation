@@ -1,0 +1,22 @@
+<!-- 
+    When an event handler is attached to an element, 'this' inside the handler refers 
+    to the element that received the event.
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This Keyword</title>
+</head>
+<body>
+    <button id="myButton">Click Me</button>
+    <script>
+        document.getElementById('myButton').addEventListener('click', function() {
+            console.log(this); // Logs the button element because 'this' refers to the element
+            // that received the event
+        });
+    </script>
+</body>
+</html>
