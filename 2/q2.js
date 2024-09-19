@@ -1,4 +1,4 @@
-// Senod Largest Number in an Array
+// Second Largest Number in an Array
 
 // 1st way : Not preferable
 function secondLargestinArr(arr) {
