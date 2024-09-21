@@ -35,3 +35,25 @@
 ### q4. Find the Intersection(common elements) of Two Arrays
 
 ### q5. Flatten a Nested Array
+
+## Day - 4
+
+### q1. Remove Duplicates from an Array
+
+### q2. Merge Two Sorted Arrays
+
+### q3. Find the Longest Word in a String
+
+### q4. Convert a String to Title Case
+
+### q5. Find the Missing Number in an Array
+
+### q6. Check if a Number is a Perfect Square
+
+### q7. Sum of All Elements in an Array
+
+### q8. Find the First Non-Repeating Character in a String
+
+### q9. Check if a String Contains Only Digits
+
+### q10. Count the Occurrences of Each Character in a String
