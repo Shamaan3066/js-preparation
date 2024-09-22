@@ -9,4 +9,4 @@ function findMissingNumber(arr) {
   return sum - arrSum;
 }
 
-console.log(findMissingNumber([1, 2, 3, 4, 6]));
+console.log(findMissingNumber([1, 2, 3, 4, 6])); // 5

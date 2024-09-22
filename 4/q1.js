@@ -6,3 +6,4 @@ function removeDuplicates(arr) {
 }
 
 console.log(removeDuplicates([1, 3, 2, 1, 34, 2, 1, 3, 4, 5, 4]));
+// [ 1, 3, 2, 34, 4, 5 ]

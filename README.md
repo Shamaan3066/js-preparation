@@ -57,3 +57,25 @@
 ### q9. Check if a String Contains Only Digits
 
 ### q10. Count the Occurrences of Each Character in a String
+
+## Day - 5
+
+### q1. Find the Maximum and Minimum in an Array
+
+### q2. Check if a String is a Palindrome
+
+### q3. Sum of Digits in a Number
+
+### q4. Check if a Number is Prime
+
+### q5. Generate Fibonacci Sequence
+
+### q6. Check if a String Contains Only Unique Characters
+
+### q7. Find the Missing Element in a Range
+
+### q8. Find the Second Largest Number in an Array
+
+### q9. Find the GCD(Greatest Common Divisor) of Two Numbers
+
+### q10. Find the LCM(Least Common Multiple) of Two numbers
