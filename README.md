@@ -79,3 +79,13 @@
 ### q9. Find the GCD(Greatest Common Divisor) of Two Numbers
 
 ### q10. Find the LCM(Least Common Multiple) of Two numbers
+
+## Day - 6
+
+### q1. Find the missing numbers from given array Input
+
+### q2. Replace underscores with space and capitaalize words
+
+### q3. Replace space with underscore
+
+### q4. Count count occurences of number in given array
