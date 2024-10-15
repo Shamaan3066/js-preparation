@@ -24,7 +24,8 @@ arr1.unshift(0);
 console.log(arr1); // [ 0, 1, 2, 3 ]
 
 // shift(): Removes the first element of the array.
-arr1.shift();
+let firstElement = arr1.shift();
+console.log(firstElement); // 0
 console.log(arr1); // [ 1, 2, 3 ]
 
 // Concatenating Arrays
