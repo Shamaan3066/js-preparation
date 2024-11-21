@@ -1,4 +1,4 @@
-// Hoisting is a JavaScript behavior where variables and function ddeclarations are moved to the top
+// Hoisting is a JavaScript behavior where variables and function declarations are moved to the top
 // of their containing scope during the compilation phase before the code is executed.
 
 console.log(a); // undefined
